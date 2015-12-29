@@ -32,3 +32,5 @@ FUNCTION CreatFileDummy($file_name,$size) {
 
 Return true;
 }
+
+?>
