@@ -13,3 +13,4 @@ $yy = rivencodec($zz);
 echo 'decode: ',$yy,'<br/>',PHP_EOL;
 
 ?>
+
